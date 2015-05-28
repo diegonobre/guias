@@ -13,6 +13,7 @@ Lista de postagens, guias de estudo, indicações de leitura...
   * Ebook JavaEE - https://github.com/algaworks/ebook-javaee
   * JSP Servlet DB - https://github.com/danielniko/SimpleJspServletDB
   * JSP Servlet Practive - https://github.com/benbai123/JSP_Servlet_Practice
+  * JavaEE JavaScript - https://github.com/m-reza-rahman/javaee-javascript
 
 ### PHP
   * Sentry - https://github.com/getsentry/sentry
@@ -25,6 +26,8 @@ Lista de postagens, guias de estudo, indicações de leitura...
   * Laravel - https://github.com/laravel/laravel
   * October CMS - https://github.com/octobercms/october
   * Zend OAuth2 - https://github.com/misarji/zend-oauth2
+  * Zend Skeleton - https://github.com/zendframework/ZendSkeletonApplication
+  * Mini PHP MVC - https://github.com/panique/mini
 
 ### JavaScript
   * JQuery Console - https://github.com/chrisdone/jquery-console
@@ -37,6 +40,9 @@ Lista de postagens, guias de estudo, indicações de leitura...
   * Cloud9 - https://github.com/ajaxorg/cloud9
   * Mozilla Butter - https://github.com/mozilla/butter
   * OpenProject - https://github.com/opf/openproject
+  * HipHp (NodeJS Project) - https://github.com/ageng/hiphop
+  * edX Platform - https://github.com/edx/edx-platform
+  * Angular Chat - https://github.com/tamaspiros/AngularChat
 
 ### Artigos
   * Datasharing - https://github.com/jtleek/datasharing
