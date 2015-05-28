@@ -43,6 +43,7 @@ Lista de postagens, guias de estudo, indicações de leitura...
   * HipHp (NodeJS Project) - https://github.com/ageng/hiphop
   * edX Platform - https://github.com/edx/edx-platform
   * Angular Chat - https://github.com/tamaspiros/AngularChat
+  * StackEdit (Markdown) - https://github.com/benweet/stackedit
 
 ### Artigos
   * Datasharing - https://github.com/jtleek/datasharing
