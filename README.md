@@ -7,6 +7,9 @@ Lista de postagens, guias de estudo, indicações de leitura...
   * DBV (Database Version Control) - https://github.com/victorstanciu/dbv
   * Sqitch (Database Change Management) - https://github.com/theory/sqitch
   * PgBadger (Log Analyser) - https://github.com/dalibo/pgbadger
+  * SqlPad - https://github.com/rickbergfalk/sqlpad
+  * SQL Fiddle - https://github.com/jakefeasel/sqlfiddle2
+  * pgCharts - https://github.com/dimitri/pgcharts
 
 ### Java
   * JavaEE Samples - https://github.com/javaee-samples/javaee7-samples
