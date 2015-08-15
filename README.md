@@ -10,6 +10,7 @@ Lista de postagens, guias de estudo, indicações de leitura...
   * SqlPad - https://github.com/rickbergfalk/sqlpad
   * SQL Fiddle - https://github.com/jakefeasel/sqlfiddle2
   * pgCharts - https://github.com/dimitri/pgcharts
+  * TextQL (SQL against structured text like CSV) - https://github.com/dinedal/textql
 
 ### Java
   * JavaEE Samples - https://github.com/javaee-samples/javaee7-samples
